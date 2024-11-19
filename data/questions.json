@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Which is the most popular JavaScript framework?",
+      "options": ["Angular", "React", "Svelte", "Vue"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which company invented React?",
+      "options": ["Google", "Apple", "Netflix", "Facebook"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What's the fundamental building block of React apps?",
+      "options": ["Components", "Blocks", "Elements", "Effects"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is not a primitive data type in JavaScript?",
+      "options": ["String", "Boolean", "Array", "Number"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which HTML element is used to display a list of items?",
+      "options": ["<div>", "<ul>", "<span>", "<p>"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does the 'useState' hook do in React?",
+      "options": ["Updates component state", "Fetches data from API", "Renders components", "Handles events"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which CSS property is used to change the font of an element?",
+      "options": ["font-family", "font-size", "text-align", "color"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which method is used to select an element in JavaScript?",
+      "options": ["getElementById", "getElementsByClassName", "querySelector", "All of the above"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What does 'npm' stand for?",
+      "options": ["Node Package Manager", "Node Programming Method", "New Package Manager", "None of the above"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which React hook is used to handle side effects?",
+      "options": ["useState", "useEffect", "useContext", "useReducer"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which HTTP method is used to fetch data from a server?",
+      "options": ["POST", "PUT", "GET", "DELETE"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which tool is used for bundling JavaScript files?",
+      "options": ["Webpack", "Babel", "Node.js", "Gulp"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is used to make a website responsive?",
+      "options": ["Media Queries", "JavaScript", "jQuery", "CSS Variables"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In which language is Node.js primarily written?",
+      "options": ["JavaScript", "Java", "Python", "C++"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is the correct way to create a function in JavaScript?",
+      "options": ["function myFunction()", "def myFunction()", "createFunction()", "function:myFunction()"],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}
